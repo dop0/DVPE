@@ -1,0 +1,7 @@
+ckpts/
+data/
+mmdetection3d/
+work_dirs/
+**/__pycache__/
+test/
+val/
